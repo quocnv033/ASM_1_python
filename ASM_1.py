@@ -171,7 +171,7 @@ def option_3_grade_exams():
     clear_screen()
 
 
-
+# ghi ID và điểm vào file text
 def option_4_export_grades():
     # Kiểm tra đã mở file chưa
     if opened_file_name is None:
