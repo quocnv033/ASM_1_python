@@ -1,3 +1,5 @@
+github dự án : https://github.com/quocnv033/ASM_1_python#
+
 Dự án bao gồm:
  AMS_1.py là file là mã nguồn
  text_file là folder chứa các file text để đọc dữ liệu
